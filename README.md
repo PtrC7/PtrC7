@@ -6,7 +6,7 @@ My name is Peter Chaya and I am a student at City College of New York studying C
 - [x] CSC103 - Introduction to Computing (C++)
 - [x] CSC104 - Discrete Mathematical Structures (Logic)
 - [x] CSC212 - Data Structures (C++)
-- [ ] CSC221 - Software Design Laboratory
+- [ ] CSC221 - Software Design Laboratory (JAVA)
 
 ### Electrical Engineering
 - [x] EE210 - Switching Systems
